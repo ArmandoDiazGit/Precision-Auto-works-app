@@ -56,33 +56,3 @@ npm run preview
 ```
 
 ## Screenshots
-
-| Section | Preview |
-|---------|---------|
-| Hero | `screenshots/hero.png` |
-| Services | `screenshots/services.png` |
-| Trust Badges | `screenshots/trust-badges.png` |
-| Form | `screenshots/form.png` |
-| Mobile Nav | `screenshots/mobile-nav.png` |
-
-> Screenshots folder not included — add your own screenshots to a `screenshots/` directory.
-
-## Project Structure
-
-```
-src/
-├── App.jsx                  # Root component
-├── main.jsx                # Entry point
-├── index.css               # Global styles
-└── components/
-    ├── Nav.jsx             # Navigation bar
-    ├── Hero.jsx            # Hero section
-    ├── Services.jsx        # Service cards
-    ├── TrustBadges.jsx     # Trust/stat badges
-    ├── ServiceForm.jsx     # Service request form
-    └── Footer.jsx          # Footer
-```
-
-## License
-
-MIT
